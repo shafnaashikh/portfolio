@@ -1,0 +1,40 @@
+  <div class="content">
+            <h1>Hi I am <span><br>James Alam</span></h1>
+        </div></div>
+
+
+
+        
+        .btn{
+            margin-top: -1.3cm;
+        }
+        .btn #btn
+        {
+            font-size: 0.5cm;
+            text-align: center;
+            align-items: center;
+            width: 3.1cm;
+            height: 0.9cm;
+            border-radius: 1cm;
+            color: black;
+            background-color: transparent;
+            margin-left: 29cm;
+        }
+
+    
+        .content h1{
+            margin-top: 5cm;
+            margin-left: 3cm;
+            font-size: 2cm;
+            font-family: Arial, Helvetica, sans-serif;
+            text-shadow: 1px 1px 1px whitesmoke;
+            
+            
+        
+        }
+        .content h1 span{
+            color: orange;
+            margin-top: 2cm;
+            margin-left: 2cm;
+            text-shadow: 2px 2px 2px black;
+        }
